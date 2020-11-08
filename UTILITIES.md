@@ -13,3 +13,8 @@ https://forums.unrealengine.com/community/work-in-progress/1656417-assets-cleane
 https://www.unrealengine.com/marketplace/en-US/product/3caab7c6e81f449296989122c043ae21 (PAID)
 
 ## Face app alternative for android
+https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1803047-face-app-alternative-for-android
+
+## Discord-UE4
+Plugin for integrating Discord Rich Presence in Unreal Engine 4.
+https://github.com/ryanjon2040/Discord-UE4
